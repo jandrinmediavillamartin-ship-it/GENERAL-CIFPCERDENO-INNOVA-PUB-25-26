@@ -1,4 +1,3 @@
-
 # 🧪 Pruebas y QA
 En esta sección guardamos las evidencias de que el sistema funciona correctamente.
 
